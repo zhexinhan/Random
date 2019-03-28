@@ -3,7 +3,7 @@
 |[Stanford University](https://www.gsb.stanford.edu/programs/mba/admission)|Stanford, CA|秋冬春（三选一）|托福大于100或者雅思大于7.0<br>GMAT没有成绩要求<br>|没有要求|两封，最好来自领导们|两篇，第一篇750词，第二篇400词|需要一页英文简历，中英文成绩单|
 |[University of Pennsylvania - Wharton](https://mba.wharton.upenn.edu/mba-application-requirements/)|Philadelphia, PA|秋冬春（三选一）|托福，如果本科或者研究生学校是英语教学可以免去<br>GMAT没有成绩要求|没有要求|两封，最好来自领导们|两篇，都是500词|需要一页英文简历，中英文成绩单|
 |[Harvard University](https://www.hbs.edu/mba/admissions/Pages/default.aspx)|Boston, MA|秋冬（二选一）|托福大于109或者雅思大于7.5<br>GMAT没有成绩要求|没有要求|两封，最好来自领导们|一篇，没有词数限制|需要一页英文简历，中英文成绩单|
-|[MIT - Sloan](https://mitsloan.mit.edu/mba)|Cambridge, MA|秋冬春（三选一）|语言考试不需要<br>GMAT没有成绩要求|没有要求|两封，最好来自领导们|一篇Cover Letter，300词以下|需要一页英文简历，一个1分钟视频，一个Organizational Structure图，中英文成绩单|
+|[MIT - Sloan](https://mitsloan.mit.edu/mba)|Cambridge, MA|秋冬春（三选一）|语言考试不需要<br>GMAT没有成绩要求|没有要求|两封，最好来自领导们|一篇Cover Letter，300词以下|需要一页英文简历，一个1分钟视频，一个Organizational Structure图，中英文成绩单|
 |[University of Chicago - Booth](https://www.chicagobooth.edu/programs/full-time/admissions)|Chicago, IL|秋冬春（三选一）|托福大于104或者雅思大于7.0<br>GMAT没有成绩要求|没有要求|两封，最好来自领导们，可以是同事|两篇，每篇最少250词，选写第三篇最少300词|需要一页英文简历，中英文成绩单|
 |[UC Berkeley](https://mba.haas.berkeley.edu/admissions)|Berleley, CA|秋冬春（三选一）|托福大于90或者雅思大于7.0<br>GMAT没有成绩要求|没有要求|两封，最好来自领导们|两篇，每篇最多300词，选写第三篇最多300词|需要一页英文简历，中英文成绩单|
 |[Columbia University](https://www8.gsb.columbia.edu/programs/mba)|New York, NY|秋冬（二选一）|语言考试不需要<br>GMAT没有成绩要求|没有要求|两封，最好来自领导们|简答最多50词<br>三篇，第一篇500词，第二，三篇250词，选写第四篇500词以下|中英文成绩单|
